@@ -20,7 +20,7 @@
 - -
 - _
 
-![wyl5xvyps9](https://cdn.jsdelivr.net/gh/mskspm/note/img/202306141602424.png)
+![202306141602674](https://cdn.jsdelivr.net/gh/mskspm/image/img/202306141637830.png)
 
 ## 1.2 命名规则
 
